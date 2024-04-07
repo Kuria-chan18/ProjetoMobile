@@ -1,2 +1,2 @@
-# Mobile
-Coisas de Mobile.
+# ProjetoMobile
+Este repositório é para os códigos do Projeto Mobile.
